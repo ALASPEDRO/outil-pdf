@@ -1,0 +1,5 @@
+Caviardeur PDF - (c) Pedro Manuel Alas Verdecia. Tous droits réservés.
+
+L'application charge deux bibliothèques libres, utilisées sans modification :
+- PDF.js 3.11.174 (Mozilla) - licence Apache 2.0 - https://github.com/mozilla/pdf.js
+- jsPDF 2.5.1 - licence MIT - https://github.com/parallax/jsPDF
