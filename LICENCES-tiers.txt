@@ -4,3 +4,4 @@ L'application charge deux bibliothèques libres, utilisées sans modification :
 - PDF.js 3.11.174 (Mozilla) - licence Apache 2.0 - https://github.com/mozilla/pdf.js
 - jsPDF 2.5.1 - licence MIT - https://github.com/parallax/jsPDF
 - pdf-lib 1.17.1 (fusion de PDF) - licence MIT - https://github.com/Hopding/pdf-lib
+- Tesseract.js 5.1.1 (OCR, chargé à la première utilisation) - licence Apache 2.0 - https://github.com/naptha/tesseract.js
