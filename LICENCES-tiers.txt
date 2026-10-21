@@ -1,7 +1,10 @@
 Caviardeur PDF - (c) Pedro Manuel Alas Verdecia. Tous droits réservés.
 
-L'application charge deux bibliothèques libres, utilisées sans modification :
+L'application charge des bibliothèques libres, utilisées sans modification :
 - PDF.js 3.11.174 (Mozilla) - licence Apache 2.0 - https://github.com/mozilla/pdf.js
 - jsPDF 2.5.1 - licence MIT - https://github.com/parallax/jsPDF
 - pdf-lib 1.17.1 (fusion de PDF) - licence MIT - https://github.com/Hopding/pdf-lib
 - Tesseract.js 5.1.1 (OCR, chargé à la première utilisation) - licence Apache 2.0 - https://github.com/naptha/tesseract.js
+- Transformers.js 3.0.2 (Hugging Face, traduction dans l'appareil, chargé à la première utilisation) - licence Apache 2.0 - https://github.com/huggingface/transformers.js
+- Modèles de traduction Opus-MT (Helsinki-NLP, Université d'Helsinki), versions ONNX Xenova/opus-mt-* - licence CC BY 4.0 - https://huggingface.co/Helsinki-NLP
+  Tiedemann J. et Thottingal S., « OPUS-MT – Building open translation services for the World », EAMT 2020.
